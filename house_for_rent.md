@@ -2,7 +2,7 @@
 > Los Alamos, NM  
 > $3500/month plus utilities  
 > August, 2022  
-> Lease: September 2022 to June 2023  
+> Lease: September 1, 2022 to May 31, 2023  
 
 House for rent North Mesa, Los Alamos on the canyon.
 
