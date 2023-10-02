@@ -1,6 +1,6 @@
 # House for Rent
 > Los Alamos, NM  
-> $3500/month (includes utilities)
+> $3000/month (includes utilities)
 > August, 2022  
 > Lease: September 1, 2022 to May 31, 2023  
 
