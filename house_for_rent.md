@@ -1,6 +1,6 @@
 # House for Rent
 > Los Alamos, NM  
-> $3500/month plus utilities  
+> $3500/month (includes utilities)
 > August, 2022  
 > Lease: September 1, 2022 to May 31, 2023  
 
@@ -11,7 +11,6 @@ appliances, etc.) just need your clothes and personal items.
 
 On canyon, great views, 4 bedrooms, 2 bath, 2 studies, living room, kitchen,
 dining room, laundry, 2 car garage, hot tub. One story, pets allowed.
-Solar on roof.
 
 | Pictures |
 | --- |
